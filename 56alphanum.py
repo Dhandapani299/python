@@ -1,2 +1,2 @@
-ch = input()
-print(ch.isalnum())
+h = input()
+print(h.isalnum())
