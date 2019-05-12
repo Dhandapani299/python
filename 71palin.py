@@ -3,8 +3,8 @@ def palin(str):
   if (str == rev):
     return True
   return False
-n = input()
-ans = palin(n)
+w = input()
+ans = palin(w)
 if(ans):
   print("yes")
 else:
